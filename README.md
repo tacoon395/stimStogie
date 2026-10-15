@@ -1,4 +1,4 @@
-# Template BepInEx Plugin
+# stimStogie
 
 Mod that adds a cigar to the game. Homage to the phantom cigar, effects not canon.
 

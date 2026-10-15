@@ -56,6 +56,7 @@ namespace ModNamespace
                     category = "drug",
                     tags = "cangetwet",
                     wearable = true,
+                    usable = false,
                     wearableCanBeHeld = true,
                     desiredWearLimb = "Head",
                     wearSlotId = "mouth",
